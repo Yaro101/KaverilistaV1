@@ -1,6 +1,7 @@
 # Kaverilista Verkkosovellus
 
 Yksinkertainen verkkosovellus, jonka avulla voit ylläpitää luetteloa kavereiden nimistä. Voit lisätä jopa 10 kaveria, ja heidän nimensä näkyvät verkkosivulla.
+Tässä on linkki, josta voit testata sen: https://yaro101.github.io/KaverilistaV1/
 
 ## Sisällysluettelo
 
