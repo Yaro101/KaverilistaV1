@@ -16,7 +16,7 @@ Voit suorittaa tämän sovelluksen paikallisesti noudattamalla näitä ohjeita:
 1. Kloonaa tämä arkisto paikalliselle koneellesi:
 
 ```bash
-git-klooni <versiovarasto-url>
+git-klooni <https://github.com/Yaro101/KaverilistaV1.git>
 ```
 
 2. Avaa ' index.html-tiedosto selaimessasi.
